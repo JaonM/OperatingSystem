@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Directory name="System">
+    <File>Configuration.xml</File>
+    <Directory name="TEMP"></Directory>
+  </Directory>
+</Root>

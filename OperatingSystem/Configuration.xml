@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeOS>
+  
+  <Memory>
+    <size>100</size>
+    <strategy>FIRST_FIT</strategy>
+  </Memory>
+  
+  <Version>1.0</Version>
+    
+  <Users>
+    <User id="1" name="root">
+      <account>root</account>
+      <password>root</password>
+    </User>
+    <User id="2" name="temp">
+      <account>temp</account>
+      <account>temp</account>
+    </User>
+  </Users>
+
+  
+ </MeOS>
